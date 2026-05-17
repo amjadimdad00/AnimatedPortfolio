@@ -1,7 +1,7 @@
 # 🌌 Animated Developer Portfolio
 
-    An immersive and fully animated developer portfolio built with modern web technologies.  
-    Crafted to deliver a smooth, interactive, and visually engaging experience with cinematic animations, 3D scenes, and fluid transitions.
+An immersive and fully animated developer portfolio built with modern web technologies.  
+Crafted to deliver a smooth, interactive, and visually engaging experience with cinematic animations, 3D scenes, and fluid transitions.
 
 ---
 
